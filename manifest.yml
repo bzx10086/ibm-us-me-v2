@@ -1,4 +1,4 @@
-pplications:
+applications:
         - name: gura
           memory: 256M
           random-route: true
